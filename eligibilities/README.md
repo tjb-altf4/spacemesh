@@ -1,4 +1,4 @@
-Script to extract smesher eligibilities from go-spacemesh node.
+# Script to extract smesher eligibilities from go-spacemesh node.
 
 Export your eligibilities from one or more nodes to a json file with the following properties:
 - epoch number

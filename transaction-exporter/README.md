@@ -7,3 +7,5 @@ Requirements:
 - Synced state.sql database (smapp/go-sm can be stopped or running)
 
 To use, simply run the script in the same folder as any synced node (where state.sql is located).
+
+![image](https://github.com/user-attachments/assets/3a1f15ba-d29a-4f49-95ca-738026fa7281)

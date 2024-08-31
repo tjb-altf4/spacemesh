@@ -7,7 +7,7 @@ Collection of utility scripts for Spacemesh
 | ---------------------------------------------------------- | ------------------------------------------------------------ | 
 | [eligibilities-exporter](eligibilities-exporter/README.md) | export your eligibilities to a (text) `json` file.           |
 | [reward-exporter](reward-exporter/README.md)               | export your smeshing rewards to a `csv` file.                |
-| [reward-exporter](transaction-exporter/README.md)          | export your wallet rewards and transactions to a `csv` file. |
+| [transaction-exporter](transaction-exporter/README.md)     | export your wallet rewards and transactions to a `csv` file. |
 
 ### Feature Requests
 Requests for new scripts, or new functionality on existing scripts can made via GitHub Issues. 
